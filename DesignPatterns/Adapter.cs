@@ -22,6 +22,7 @@ namespace DesignPatterns
             }
 
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 
