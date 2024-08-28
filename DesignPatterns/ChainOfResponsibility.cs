@@ -2,7 +2,7 @@
 {
     internal class ChainOfResponsibility
     {
-        // purpose : allows a REQUEST to pass through a chain of request handlers. Each handler decides whether to handle the request, and/or to pass it to the next handler.
+        // purpose : allows a REQUEST to pass through a chain of request handlers. Each handler decides whether to handle the request, or to pass it to the next handler.
 
         public void Demo()
         { 
